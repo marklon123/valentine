@@ -5,7 +5,7 @@
 }
 
 html {
-  background: var(--white);
+  background: var(--white)!important;
 }
 
 #root {
