@@ -4,8 +4,8 @@
   --white: white;
 }
 
-html {
-  background: var(--white)!important;
+body {
+  background: rgb(83, 23, 23);
 }
 
 #root {
