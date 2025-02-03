@@ -6,6 +6,7 @@
 
 #root {
   width: 100%;
+  background: var(--white);
 }
 
 .container-fluid {
